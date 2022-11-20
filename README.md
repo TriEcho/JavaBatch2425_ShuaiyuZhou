@@ -1,6 +1,6 @@
 # JavaBatch2425_ShuaiyuZhou
 ## Introduction
-###### Main application
+**Main application**
 - Technologies: Spring Boot, Spring Data JPA, Swagger
 - Database platform: Mysql
 - Start the application by running [SimpleRestfulServerApplication class](https://github.com/TriEcho/JavaBatch2425_ShuaiyuZhou/blob/master/simpleRestfulServer/src/main/java/com/antra/simpleRestfulServer/SimpleRestfulServerApplication.java)
